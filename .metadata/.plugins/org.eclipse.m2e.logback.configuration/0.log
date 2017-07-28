@@ -1,0 +1,23 @@
+2017-07-28 11:14:27,889 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:ecommerce:0.0.1-SNAPSHOT @ C:\Users\Admin\Desktop\mvnsvn\ecommerce\pom.xml.
+2017-07-28 11:14:28,564 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 11:14:28,567 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\mvnsvn\ecommerce\src\main\resources
+2017-07-28 11:14:28,569 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 11:14:28,570 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\mvnsvn\ecommerce\src\test\resources
+2017-07-28 11:14:28,733 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce/src/main/java
+2017-07-28 11:14:28,735 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce/src/test/java
+2017-07-28 11:14:29,656 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-07-28 11:14:30,209 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:ecommerce:0.0.1-SNAPSHOT @ C:\Users\Admin\Desktop\mvnsvn\ecommerce\pom.xml.
+2017-07-28 11:14:30,435 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce/src/main/java
+2017-07-28 11:14:30,435 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce/src/test/java
+2017-07-28 11:14:30,554 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-07-28 11:14:30,742 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 11:14:30,743 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\mvnsvn\ecommerce\src\main\resources
+2017-07-28 11:14:30,745 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 11:14:30,746 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\mvnsvn\ecommerce\src\test\resources
+2017-07-28 11:17:22,033 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 11:17:22,034 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\mvnsvn\ecommerce\src\main\resources
+2017-07-28 11:17:22,036 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 11:17:22,037 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\mvnsvn\ecommerce\src\test\resources
+2017-07-28 11:18:17,652 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ecommerce:ecommerce:0.0.1-SNAPSHOT @ C:\Users\Admin\Desktop\mvnsvn\ecommerce\pom.xml.
+2017-07-28 11:18:17,810 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-28 11:18:17,811 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\Desktop\mvnsvn\ecommerce\src\main\resources
